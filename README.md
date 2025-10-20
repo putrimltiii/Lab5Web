@@ -18,4 +18,7 @@ Setelah alert ditutup, JavaScript berikutnya mulai dijalankan. Pada bagian ini, 
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/e5ee8ee3-b5da-4f54-9f15-d408ad75de2a" />
 Selanjutnya, muncul kotak dialog lainnya yang meminta pengguna memasukkan nama. Kotak ini juga berasal dari fungsi prompt(). Setelah pengguna mengetik nama dan menekan tombol “OK”, JavaScript akan menampilkan sapaan seperti “Hai, [nama anda]” di halaman web. Fitur ini menunjukkan bagaimana JavaScript dapat menangkap input dan menggunakannya untuk membuat tampilan halaman menjadi dinamis dan personal.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/099e9f51-cd40-4444-845e-29803ec019b1" />
+
+
 
